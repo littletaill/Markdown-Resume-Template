@@ -1,18 +1,17 @@
  <center>
-     <h1>XXX</h1>
+     <h1>李伟</h1>
  </center>
 
 ## 个人信息
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 性 别：女&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25
+* 手 机：8369261433 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：weilili@seu.edu.cn
+* 专 业：人工智能 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：算法工程师
 
 ## 工作及教育经历
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科
+* 东南大学&emsp;&emsp;&emsp;&emsp;&emsp;2023.9~至今&emsp;&emsp;&emsp;&emsp; 人工智能专业-研究生
+* 东南大学&emsp;&emsp;&emsp;&emsp;&emsp;2019.9~2023.7&emsp;&emsp;&emsp;&emsp; 人工智能专业-本科
 
 ## 专业技能
 
@@ -47,16 +46,5 @@
 * 喜欢钻研技术 等等
 * 性格开朗，喜欢跳舞，做个主持人 等等
 
-## Word版领取方式
-
-**Word版本的简历，添加代码随想录企业微信，通过之后就会发你word版本**。
-
-<div align="center"><img src="https://code-thinking-1253855093.file.myqcloud.com/pics/20240328164645.png" data-img="1" width="200" height="200"></img></div>
-
-如果已经有代码随想录企业微信，直接回复：简历模板，就可以了。
-
-## 总结
-
-**好的简历是敲门砖，同时也不要在简历上花费过多的精力，好的简历以及面试技巧都是锦上添花**，真的求得心得的offer靠的还是真才实学。
 
 
